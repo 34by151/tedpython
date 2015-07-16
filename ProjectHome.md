@@ -1,0 +1,1 @@
+Python utilities for extracting data from [TED5000 devices](http://www.theenergydetective.com/ted-5000-overview.html) using the [TED5000 API](http://www.theenergydetective.com/ted-5000-developer-and-api.html).
